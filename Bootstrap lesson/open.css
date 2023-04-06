@@ -1,0 +1,27 @@
+hr {
+    border: none; /* Убираем границу */
+    background-color: black;
+    color: black; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+} 
+.my-carousel, .carousel-item{
+    max-height: 750px;
+}
+#oval {
+    position: absolute;
+	width: 350px;
+	height: 150px;
+	background:#FFB800;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 165px / 75px;
+}
+#oval {
+    position: absolute;
+	width: 350px;
+	height: 150px;
+	background:#FFB800;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 165px / 75px;
+}
